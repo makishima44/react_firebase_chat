@@ -2,14 +2,6 @@
   flex: 1;
   overflow: scroll;
 
-  /* Скрыть полосу прокрутки для всех браузеров */
-  scrollbar-width: none; /* Для Firefox */
-  -ms-overflow-style: none; /* Для IE и Edge */
-
-  &::-webkit-scrollbar {
-    display: none; /* Для Chrome, Safari и Opera */
-  }
-
   .search {
     display: flex;
     align-items: center;

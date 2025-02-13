@@ -4,6 +4,14 @@
   box-sizing: border-box;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva,
     Verdana, sans-serif;
+
+  /* Скрыть полосу прокрутки для всех браузеров */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+
+  &::-webkit-scrollbar {
+    display: none; /* Для Chrome, Safari и Opera */
+  }
 }
 
 body {

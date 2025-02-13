@@ -28,7 +28,91 @@ const Chat = () => {
         </div>
       </div>
 
-      <div className="center"></div>
+      <div className="center">
+        <div className="message own">
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid facilis, ad,
+              reiciendis itaque exercitationem molestias magni consectetur nemo aliquam vero facere
+              animi corporis delectus amet optio enim tempora eligendi rem!
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid facilis, ad,
+              reiciendis itaque exercitationem molestias magni consectetur nemo aliquam vero facere
+              animi corporis delectus amet optio enim tempora eligendi rem!
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+
+        <div className="message own">
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid facilis, ad,
+              reiciendis itaque exercitationem molestias magni consectetur nemo aliquam vero facere
+              animi corporis delectus amet optio enim tempora eligendi rem!
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid facilis, ad,
+              reiciendis itaque exercitationem molestias magni consectetur nemo aliquam vero facere
+              animi corporis delectus amet optio enim tempora eligendi rem!
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+
+        <div className="message own">
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid facilis, ad,
+              reiciendis itaque exercitationem molestias magni consectetur nemo aliquam vero facere
+              animi corporis delectus amet optio enim tempora eligendi rem!
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid facilis, ad,
+              reiciendis itaque exercitationem molestias magni consectetur nemo aliquam vero facere
+              animi corporis delectus amet optio enim tempora eligendi rem!
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+
+        <div className="message own">
+          <div className="texts">
+            <img
+              src="https://t3.ftcdn.net/jpg/05/66/27/56/360_F_566275602_ewJ3sgEV27DQhETyuen8JHrVFM90rBhm.jpg"
+              alt=""
+            />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid facilis, ad,
+              reiciendis itaque exercitationem molestias magni consectetur nemo aliquam vero facere
+              animi corporis delectus amet optio enim tempora eligendi rem!
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+      </div>
 
       <div className="bottom">
         <div className="icons">
