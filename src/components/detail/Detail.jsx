@@ -83,6 +83,7 @@ const Detail = () => {
           </div>
         </div>
         <button>Shared Files</button>
+        <button className="logout">Logout</button>
       </div>
     </div>
   );
